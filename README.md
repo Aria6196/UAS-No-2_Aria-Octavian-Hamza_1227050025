@@ -1,4 +1,4 @@
-# Ujian Akhir Semester 
+# Pembagian 3, 5, dan 7 pada Array 
 <br>Mata Kuliah 	: Dasar Pemograman
 <br> Nama		: Aria Octavian Hamza
 <br>NIM		:	1227050025
